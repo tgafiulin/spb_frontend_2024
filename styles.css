@@ -126,7 +126,7 @@
     transform: translateY(-50%);
 }
 
-#slide-2 img {
+.present-img {
     max-width: 40%;
     left: 55%;
 }
